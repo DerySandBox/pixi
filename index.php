@@ -10,7 +10,7 @@
 		</style>
 		<script src="pixi.dev.js"></script>
 	</head>
-        <body> <h1>Thank you deal tester from <?=$_SERVER['REMOTE_ADDR']?></h1>
+        <body> <h1>Thank you from <?=$_SERVER['REMOTE_ADDR']?></h1>
             
 		<script>
 			// first tile picked up by the player
