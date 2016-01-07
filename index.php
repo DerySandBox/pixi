@@ -10,8 +10,8 @@
 		</style>
 		<script src="pixi.dev.js"></script>
 	</head>
-        <body> <h1>Test Pixi</h1>
-            Your IP is <?=$_SERVER['REMOTE_ADDR']?>
+        <body> <h1>Thank you deal tester from <?=$_SERVER['REMOTE_ADDR']?></h1>
+            
 		<script>
 			// first tile picked up by the player
 			var firstTile=null;
