@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <title></title>
     </head>
-    <body><h1>Taste on Pixi</h1>
+    <body><h1>A taste on Pixi</h1>
         <?php
         // put your code here
         ?>
